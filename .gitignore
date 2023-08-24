@@ -24,7 +24,7 @@ yarn-error.log*
 
 
 
-/src/components/ChannelDetail.jsx
+
 /src/components/Feed.jsx
 /src/components/SearchBar.jsx
 /src/components/SearchFeed.jsx
