@@ -24,8 +24,7 @@ yarn-error.log*
 
 
 
-/src/components/Sidebar.jsx
-/src/components/Navbar.jsx
+
 /src/components/VideoCard.jsx
 /src/components/VideoDetail.jsx
 /src/components/Videos.jsx
