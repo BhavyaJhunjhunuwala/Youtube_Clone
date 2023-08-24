@@ -25,7 +25,7 @@ yarn-error.log*
 
 
 
-/src/components/Feed.jsx
+
 /src/components/SearchBar.jsx
 /src/components/SearchFeed.jsx
 /src/components/Sidebar.jsx
