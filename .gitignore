@@ -23,10 +23,6 @@ yarn-debug.log*
 yarn-error.log*
 
 
-
-
-
-/src/components/SearchBar.jsx
 /src/components/SearchFeed.jsx
 /src/components/Sidebar.jsx
 /src/components/Navbar.jsx
