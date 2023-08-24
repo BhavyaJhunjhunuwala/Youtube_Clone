@@ -25,7 +25,6 @@ yarn-error.log*
 
 
 
-/src/components/VideoCard.jsx
 /src/components/VideoDetail.jsx
 /src/components/Videos.jsx
 
