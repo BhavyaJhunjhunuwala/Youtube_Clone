@@ -23,7 +23,7 @@ yarn-debug.log*
 yarn-error.log*
 
 
-/src/components/ChannelCard.jsx
+
 /src/components/ChannelDetail.jsx
 /src/components/Feed.jsx
 /src/components/SearchBar.jsx
